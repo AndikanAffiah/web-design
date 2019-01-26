@@ -2,7 +2,7 @@ body{
     background-color:whitesmoke !important;
     width: 100%;
 }
-#top{
+#header{
     background-image: url(../images/hd-4.jpg);
     /* height:750px; */
     height: 117vh;
